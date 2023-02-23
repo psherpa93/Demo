@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T21:56:54 EST" name="TestBrowserOpen" finished-at="2023-02-08T21:57:35 EST" duration-ms="40547">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T21:56:54 EST" name="Command line test" finished-at="2023-02-08T21:57:35 EST" duration-ms="40547">
+      <class name="TestBrowserOpen">
+        <test-method is-config="true" signature="Beforemethod()[pri:0, instance:TestBrowserOpen@7bc1a03d]" started-at="2023-02-08T21:56:54 EST" name="Beforemethod" finished-at="2023-02-08T21:57:31 EST" duration-ms="36640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method signature="TestMethod()[pri:0, instance:TestBrowserOpen@7bc1a03d]" started-at="2023-02-08T21:57:31 EST" name="TestMethod" finished-at="2023-02-08T21:57:34 EST" duration-ms="3653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod -->
+        <test-method signature="TestMethod2()[pri:0, instance:TestBrowserOpen@7bc1a03d]" started-at="2023-02-08T21:57:34 EST" name="TestMethod2" finished-at="2023-02-08T21:57:34 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod2 -->
+        <test-method is-config="true" signature="Aftermethod()[pri:0, instance:TestBrowserOpen@7bc1a03d]" started-at="2023-02-08T21:57:34 EST" name="Aftermethod" finished-at="2023-02-08T21:57:35 EST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+      </class> <!-- TestBrowserOpen -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestBrowserOpen -->
+</testng-results>
